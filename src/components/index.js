@@ -1,4 +1,4 @@
 import Layout from "./layout/layout"
-import SEO from "./layout/seo"
+import SEO from "./seo/seo"
 
-export const { Layout, SEO }
+export { Layout, SEO }
